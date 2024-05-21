@@ -10,7 +10,7 @@ scale = []
 
 API_Key = 'f276904f74631c4b0c2a0ae932d44124'
 
-num_cities = input("How Many num_citiesies do you want to compare? ")
+num_cities = input("How many cities do you want to compare? ")
 
 #run the loop through however many cities user wants
 for i in range(int(num_cities)):
