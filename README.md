@@ -2,6 +2,8 @@
 
 This Python application allows users to compare the current temperature of multiple cities using the OpenWeatherMap API. The app provides a simple command-line interface to input the cities and visualize their temperatures on a scatter plot.
 
+![image](https://github.com/MankaranRooprai/weather-app/assets/13322471/408d5a33-095e-4efd-bd2a-224f5ed83ac2)
+
 ## Installation
 
 1. Clone the repository to your local machine:
