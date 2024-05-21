@@ -22,8 +22,9 @@ cd Weather-Comparison-App
 
 2. Replace the placeholder API key in the `weather.py` file with your own API key:
 
-```python
+```
 API_Key = 'your_api_key_here'
+```
 
 3. Run the script
 
